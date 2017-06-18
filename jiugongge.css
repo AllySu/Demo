@@ -56,7 +56,7 @@ body{
 	color: #222;
 	margin-top: 10px;
 }
-#start{
+#start,#reset{
 	display: inline-block;
 	font-size: 28px;
 	width: 100px;
@@ -69,7 +69,7 @@ body{
 	text-align: center;
 	cursor: pointer;
 }
-#reset{
+/*#reset{
 	display: inline-block;
 	font-size: 28px;
 	width: 100px;
@@ -81,7 +81,7 @@ body{
 	box-shadow: 2px 2px 5px #4c98f5;
 	text-align: center;
 	cursor: pointer;
-}
+}*/
 #d1{
 	left: 0px;
 }
