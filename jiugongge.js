@@ -117,3 +117,10 @@ var d_posXY=new Array(
       window.onload=function(){
       	reset();
       }
+
+
+
+//随意添加
+      for (var i = name.length - 1; i >= 0; i--) {
+      	name[i];
+      }
