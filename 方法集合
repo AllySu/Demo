@@ -27,3 +27,8 @@ valueOf()返回数组对象的原始值；
 toSource()返回对象的源代码；
 toString（）把数组转换为字符串，并返回结果；
 toLocaleString()把数组转换为本地数组，并返回结果
+
+
+
+console.log控制台
+
