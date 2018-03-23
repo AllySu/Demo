@@ -2,7 +2,7 @@
 
 2.从远程获取最新版本到本地
 
-1
+
 $ git fetch origin master
 From https://github.com/com360/android-app
  * branch            master     -> FETCH_HEAD
@@ -34,10 +34,12 @@ su@SUCHANGLI /e/eoe_client/android-app (master)
 
 
 方式二
+
+
 1.查看远程分支，和上面的第一步相同
 2. 从远程获取最新版本到本地
 
-1
+
 $ git fetch origin master:temp
 From https://github.com/com360/android-app
  * [new branch]      master     -> temp
@@ -47,6 +49,7 @@ git fetch origin master:temp 这句命令的意思是：从远程的origin仓库
 比较本地的仓库和远程参考的区别
 
 $ git diff temp
+
 su@SUCHANGLI /e/eoe_client/android-app (master)
 命令的意思是：比较master分支和temp分支的不同
 由于我的没有区别就没有显示其他信息
