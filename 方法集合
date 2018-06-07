@@ -30,5 +30,5 @@ toLocaleString()把数组转换为本地数组，并返回结果
 
 
 
-console.log控制台
+
 
