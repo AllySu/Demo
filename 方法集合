@@ -6,11 +6,15 @@ split（） 方法将字符串分割为字符串数组，并返回此数组；
 substring() 方法用于提取字符串中介于两个指定下标之间的字符。
 substr()提取指定数目长度的字符；stringObject.substr(startPos,length)
 
+
+
 Math对象
 ceil() 方法可对一个数进行向上取整。
 floor() 方法可对一个数进行向下取整。
 round() 方法可把一个数字四舍五入为最接近的整数。
 random() 方法可返回介于 0 ~ 1（大于或等于 0 但小于 1 )之间的一个随机数。
+
+
 
 Array 数组对象
 concat()连接两个或更多的数组，并返回结果；
